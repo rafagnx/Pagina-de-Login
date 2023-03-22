@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://rafagnx.github.io/Pagina-de-Login/). 
 
 ## :memo: Licença
 
